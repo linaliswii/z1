@@ -1,0 +1,11 @@
+C:\Users\Ангелина\source\repos\z1\z1\bin\Debug\z1.exe.config
+C:\Users\Ангелина\source\repos\z1\z1\bin\Debug\z1.exe
+C:\Users\Ангелина\source\repos\z1\z1\bin\Debug\z1.pdb
+C:\Users\Ангелина\source\repos\z1\z1\obj\Debug\z1.csproj.AssemblyReference.cache
+C:\Users\Ангелина\source\repos\z1\z1\obj\Debug\z1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Ангелина\source\repos\z1\z1\obj\Debug\z1.Form1.resources
+C:\Users\Ангелина\source\repos\z1\z1\obj\Debug\z1.Properties.Resources.resources
+C:\Users\Ангелина\source\repos\z1\z1\obj\Debug\z1.csproj.GenerateResource.cache
+C:\Users\Ангелина\source\repos\z1\z1\obj\Debug\z1.csproj.CoreCompileInputs.cache
+C:\Users\Ангелина\source\repos\z1\z1\obj\Debug\z1.exe
+C:\Users\Ангелина\source\repos\z1\z1\obj\Debug\z1.pdb
